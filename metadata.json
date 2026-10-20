@@ -1,0 +1,7 @@
+{
+  "name": "SENAI-SP - Controle de Estoques",
+  "description": "Sistema Integrado de Gestão e Controle de Estoques do SENAI-SP com cadastro hierárquico, movimentações em tempo real, relatórios A4 e sincronização em nuvem GitHub e Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
